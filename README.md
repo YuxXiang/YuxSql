@@ -1,2 +1,3 @@
 YuxSql 项目
-./MySql_Loc	本地 MySql 数据库相关脚本
+./Loc_MySql	本地 MySql 数据库相关脚本
+./ORACLE_Tools	Oracle DB 脚本
